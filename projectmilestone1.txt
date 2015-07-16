@@ -1,0 +1,19 @@
+Sharon Wang
+DS-LA-07
+
+Project
+Milestone 1 - Know Your Question and Data Set
+
+
+Question: For each U.S. state, how does the population explain why they believe farmers' markets are better than major chain grocery stores, such as Kroger/Ralphs or Vons? 
+
+Data Sets:  
+1. USDA National Farmers Market Directory
+http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html
+https://catalog.data.gov/dataset/national-farmers-market-directory
+2. USDA Food Access Research Atlas
+http://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data.aspx
+3. US Dept of Agriculturehttp:
+http://ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads.aspx
+
+
