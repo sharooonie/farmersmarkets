@@ -1,11 +1,23 @@
-# GA-DAT-LA-07-Project
+UNDER MAINTENANCE
 
-Purpose of this Repository:  This repository will contain the supporting documentation for my Data Science Project as required by the General Assembly class . 
+Farmers Market Analysis - Where can you sell your product? 
 
-Explanation of Project:  This Data Science program is a recommendation for potential vendors at US farmers' markets.  Using the farmers' market directory maintained by the USDA, we are creating recommendations for products to sell and whether to farmers markets are available nearby to sell such products. 
+1. Problem Formulation
 
-Dataset:  USDA Farmers' Market Directory Search (updated 7-31-15)
 
-Notes: 
-1. This recommendation system is expected to contain (business) design gaps. The focus of this deliverable is to practice technical skills in programming and statistics. This program may evolve over time to account for the known gaps. 
+2. Create a Hypothesis
 
+
+
+3. Data Analysis & Testing (iterative)
+
+
+
+4. Create a Data Product
+
+
+
+Files Explained:
+
+
+References Used:
