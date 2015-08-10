@@ -55,7 +55,7 @@ Small Area Income and Poverty Estimates (US Census) :: http://www.census.gov/did
 
 <h5>Additional Information:</h5>  
 
-<p>The following are analysis conducted that did not appear to help the creation of the program. Note the original hypothesis for the project was to attempt predicting county in the U.S. where the next farmers' market would be established.  However, through review of the data set, it was clear the National Farmers' Market Directory dataset was insufficient. </p>
+<p>The following are analysis conducted that were ultimately left off the final proof of concept.</p>
 <p>(A) The US Census data for poverty and education were reviewed to help solve the original hypothesis.  However, based on the unrealistic nature of a local farmer being able to sell produce across the country or oblivious to the economic conditions of surrounding livable areas, the hypothesis was edited to solve the problem.  Additionally, the datasets appeared to already be results of previous analysis per review. The US Census datasets were therefore excluded from the remainder of the data science analysis.</p>
 <p>LINK: http://www.census.gov/did/www/saipe/data/index.html</p>
 <p>(B) The social media data provided also allows for further prediction.  For example, if a local farmer is looking to sell at a market where she can gain additional exposure for this farm, she may be looking for a market within traveling distance that does not already have the produce as a frequently sold item and that provides social media support on behalf of the farmers.  As there are quite a few more inferences and analysis to confirm the inferences to complete, this analysis was started by not completed for this proof of concept. </p>
