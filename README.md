@@ -14,8 +14,6 @@
 
 <h3>3. Data Analysis & Testing (iterative)</h3>
 
-<h4>3a.  Goals</h4>
-
 <h4>User input*: </h4>
 <p>Key parameters required by the programs' users would be location by means of Zip Code and County, desirable distance for travel and products of interest.  Due to the population the program is intended to interact with, a web-front is needed.  
 
