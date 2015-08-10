@@ -9,7 +9,8 @@
 
 <h3>2. Create a Hypothesis</h3>
 
-<p>Create a recommendation system that allows the user of the program to determine what type of recommendation they are looking for.  If they are buying, they are looking for the product sold in all of the "drivable" distances.  If they are selling, they are avoiding saturated markets, long distances that may make the early morning drive costly, and successfully active farmers' markets.  </p>
+<p>Create a recommendation system that allows the user of the program to determine what type of recommendation they are looking for.  If they are buying, they are looking for the product sold in all of the "drivable" distances.  If they are selling, they are avoiding saturated markets, long distances that may make the early morning drive costly, and successfully active farmers' markets.</p>
+<p>Question related to this Data Science Project at time of Class Presentation:  What County in the U.S. is mostly selling Wild Harvested produce or Cheese?  And, vice versa?</p>
 
 <h3>3. Data Analysis & Testing (iterative)</h3>
 
@@ -35,8 +36,8 @@
 <h5>References Used:</h5>
 
 
-<p>Additional Information:  The following are analysis conducted that did not appear to help the creation of the program. </p>
-<p>(A) The US census data for poverty and </p>
-
+<p><bold>Additional Information:</bold>  The following are analysis conducted that did not appear to help the creation of the program. Note the original hypothesis for the project was to attempt predicting county in the U.S. where the next farmers' market would be established.  However, through review of the data set, it was clear the National Farmers' Market Directory dataset was insufficient. </p>
+<p>(A) The US Census data for poverty and education were reviewed to help solve the original hypothesis.  However, based on the unrealistic nature of a local farmer being able to sell produce across the country or oblivious to the economic conditions of surrounding livable areas, the hypothesis was edited to solve the problem.  Additionally, the datasets appeared to already be results of previous analysis per review. The US Census datasets were therefore excluded from the remainder of the data science analysis.</p>
+<p>LINK: http://www.census.gov/did/www/saipe/data/index.html</p>
 
 </html>
