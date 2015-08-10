@@ -1,4 +1,5 @@
-UNDER MAINTENANCE
+<!DOCTYPE html>
+<html>
 
 Farmers Market Analysis - Where can you sell your product? 
 
@@ -14,11 +15,11 @@ Create a recommendation system that allows the user of the program to determine 
 
 3. Data Analysis & Testing (iterative)
 
-3a.  Goals
+   3a.  Goals
 
 User input*: Key parameters required by the programs' users would be location by means of Zip Code and County, desirable distance for travel and products of interest.  Due to the population the program is intended to interact with, a web-front is needed.  
 
-Data Gathering: The USDA maintains the National Farmers' Market Directory.  This file is updated regularly because data input to the dataset is voluntary.  Due to the frequency of data updates, it can be inferred that many farmers' market utilize this dataset for subsidies, marketing and/or advertising.  (As such, it should be expected that this program already has a great deal of competition.)  
+/u Data Gathering: The USDA maintains the National Farmers' Market Directory.  This file is updated regularly because data input to the dataset is voluntary.  Due to the frequency of data updates, it can be inferred that many farmers' market utilize this dataset for subsidies, marketing and/or advertising.  (As such, it should be expected that this program already has a great deal of competition.)  
 
 
 
@@ -38,3 +39,6 @@ References Used:
 
 Additional Information:  The following are analysis conducted that did not appear to help the creation of the program. 
 (A) The US census data for poverty and 
+
+
+</html>
