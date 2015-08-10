@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 
-Farmers Market Analysis - Where can you sell your product? 
+<head> Farmers Market Analysis - Where can you sell your product? </head>
 
-This repo provides supporting information for a proof of concept (POC).  The data product explained by this POC is a recommendation system focused on helping local farmers find the nearest farmers' market with the highest probability to sell their produce.  The program could also help fans of farmers' markets to find the nearest market with product they are seeking.  
+<p> This repo provides supporting information for a proof of concept (POC).  The data product explained by this POC is a recommendation system focused on helping local farmers find the nearest farmers' market with the highest probability to sell their produce.  The program could also help fans of farmers' markets to find the nearest market with product they are seeking. </p> 
 
 1. Problem Formulation
 
