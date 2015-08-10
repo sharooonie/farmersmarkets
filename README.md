@@ -14,7 +14,7 @@
 
 <h3>3. Data Analysis & Testing (iterative)</h3>
 
-<h4>User input*: </h4>
+<h4>User input: </h4>
 <p>Key parameters required by the programs' users would be location by means of Zip Code and County, desirable distance for travel and products of interest.  Due to the population the program is intended to interact with, a web-front is needed.  
 
 <h4>Data Gathering: </h4>
@@ -25,8 +25,6 @@
 <p>- Excel allowed for creation of a column called region.  Python by way of MapReduce likely could have achieved the same results. Refer to https://github.com/sharooonie/farmersmarkets/blob/master/GA-Project-OverviewOfUSFarmersMarkets.ipynb for more information.</p>
 <p>- The produce columns had inconsistent null values. Pandas facilitated the standardization of blank fields for modeling.</p>
 <p>- See below for additional data cleansing activities that would further improve the quality and usability of this dataset. </p>
-
-<p>*Based on the nature of this POC, these portions of the program has not been built.</p>
 
 <h4>Data Analysis & Test: </h4>
 <p>Model #1: Naive Bayes</p>
