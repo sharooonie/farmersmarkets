@@ -45,6 +45,8 @@
 
 <p>For the purpose of this Data Science project presentation, this repo contains the Python Notebooks and this README as a preview of the proof of concept. The data product itself will be built over time.</p>
 
+<p>Collaborative filtering will be the basis for this recommendation system, as it consolidates the output of the multiple prediction programs explained above. The prediction programs create the items assessed in the collaborative filtering. </p>
+
 <h5>References Used:</h5>
 <p>
 National Farmers’ Market Directory (USDA) :: http://search.ams.usda.gov/farmersmarkets/
